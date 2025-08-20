@@ -10,7 +10,7 @@ export default function Home() {
         <tbody>
         <tr><th> Nome </th><th> idade</th></tr>
         <tr><th> Igor G </th><th> 20</th></tr>
-        <tr><th colSpan="2">Nasci no estado de Pernanbuco na cidade de Recife,gosto de quebra cabeças, video-games e Ler, sou mais reservado e as vezes me perco nos meus pensamentos.</th></tr>
+        <tr><th colSpan="2">Nasci no estado de Pernambuco na cidade de Recife,gosto de Quebra-Cabeças, Video-Games e Ler, sou mais reservado e as vezes me perco nos meus pensamentos.</th></tr>
       </tbody>
       </table>
     </h1>
